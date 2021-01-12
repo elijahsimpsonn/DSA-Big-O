@@ -24,3 +24,5 @@ function efficientSearch(array, item) {
     }
     return -1;
 }
+
+// Logarithmic Time (O(log(n))) since the time complexity is proportional to how many times you can half the size of the array. 

@@ -8,3 +8,5 @@ function isEven(value) {
         return false;
     }
 }
+
+// Constant Time O(1). There is only one input and you are doing one operation on it. 

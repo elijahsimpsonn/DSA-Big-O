@@ -16,3 +16,5 @@ function compute(num) {
     }
     return result;
 }
+
+// Linear Time (O(n)) has running times that are directly proportional to the size (n) of the input, each with time complexities of O(1).
