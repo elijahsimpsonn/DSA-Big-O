@@ -37,7 +37,7 @@
 - <b>O(2^n)</b> - For an input of size 2, an exponential time algorithm will take 2^2 = 4 time. With an input of size 10, the same algorithm will take 2^10 = 1024 time, and with an input of size 100, it will take 2^100 = 1.26765060022823 * 1030 time. Algorithms with running time O(2^n) are often recursive algorithms that solve a problem of size N by recursively solving two smaller problems of size N-1.
 
 ## Time Complexity Graph 
-<img src="https://curricula.thinkful.com/curricula/97e2c2e1-0282-44c3-96bc-27ad29f680c0/ei-dsa-v1/assets2/dsa_big_o/BigO.png">
+<img src="https://i.ibb.co/XSVbh7j/BigO.png">
 
 ## Operations Required By Different Time Complexities
 
