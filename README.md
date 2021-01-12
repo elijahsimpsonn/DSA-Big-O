@@ -15,17 +15,25 @@
 ## Examples
 
 - <b>O(1)</b> - Examples of O(1) algorithms are accessing an array item or performing basic arithmetic operations (e.g., adding 2 numbers).
+
 <br/>
+
 - <b>O(log(n))</b> - A good example of a (O(log(n))) algorithm is looking up people in a phonebook. You don't need to check every person in the phone book to find the right one; instead, you can simply divide-and-conquer by looking based on where their name is alphabetically, and in every section you only need to explore a subset of each section before you eventually find someone's phone number. Of course, a bigger phone book will still take you a longer time, but it won't grow as quickly as the proportional increase in the additional size. Remember that:
     - the choice of the next element on which to perform some action is one of several possibilities
     - only one will need to be chosen.
     OR
     - the elements on which the action is performed are digits of n
+
 <br/>
+
 - <b>O(n)</b> - Some examples of O(n) algorithms are summing the elements in an array and finding the minimum or maximum value in an array.
+
 <br/>
+
 - <b>O(n^k)</b> - The easiest way to understand polynomial time complexity is with nested loops. An algorithm that requires 2 levels of looping over an input would be O(n^2) while one requiring 3 levels of looping would be O(n^3). In both cases, we have polynomial time complexity.
+
 <br/>
+
 - <b>O(2^n)</b> - For an input of size 2, an exponential time algorithm will take 2^2 = 4 time. With an input of size 10, the same algorithm will take 2^10 = 1024 time, and with an input of size 100, it will take 2^100 = 1.26765060022823 * 1030 time. Algorithms with running time O(2^n) are often recursive algorithms that solve a problem of size N by recursively solving two smaller problems of size N-1.
 
 ## Time Complexity Graph 
