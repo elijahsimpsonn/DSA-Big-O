@@ -26,12 +26,16 @@
 // Linear Time (O(n)) has running times that are directly proportional to the size (n) of the input. 
 
 // Maze One Path
-// Linear Time (O(n)) has running times that are directly proportional to the size (n) of the input. 
+// Polynomial Time (O(n^k)) has a running time that would be some input size n raised to some constant power k.
 
 // Maze All Paths
+// Exponential Time (O(2^n)) has running times that grow rapidly with any increase in input size.
 
 // Anagrams
+// Polynomial Time (O(n^k)) has a running time that would be some input size n raised to some constant power k.
 
 // Organization Chart
 
+
 // Binary Representation
+// Logarithmic Time (O(log(n))) takes longer with larger inputs, but running time increases slowly. Cuts the problem size in half each round. 

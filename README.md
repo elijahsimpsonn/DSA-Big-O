@@ -46,6 +46,7 @@
 ## Resources
 
 - <a href="https://tf-assets-prod.s3.amazonaws.com/tf-curric/data-science/Thinksheet-BigO.pdf"><b>Cheetsheet</b></a>
+- <a href="https://www.youtube.com/watch?v=itn09C2ZB9Y"><b>Web Dev Simplified</b></a>
 - <a href="https://www.youtube.com/watch?v=IM9sHGlYV5A"><b>CS50 Computational Complexity Video</b></a>
 - <a href="https://www.youtube.com/watch?v=v4cd1O4zkGw"><b>HackerRank Big O Notation Video</b></a>
 
